@@ -1,0 +1,56 @@
+div{
+    width: 80%;
+    align-items: center;
+}
+#top{
+    border: 3px solid red;
+    min-height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+}
+
+#rubrik{
+    background-color: aqua;
+    border: 2px solid black;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.länk{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+#mellan{
+    border: 3px solid orange;
+    min-height: 250px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+#rubrik-v{
+    border: 3px solid black;
+    background-color: yellow;
+    min-width: 49%;
+}
+
+#rubrik-h{
+    border: 3px solid black;
+    background-color: lightpink;
+    min-width: 49%;
+    margin: 1%;
+}
+
+#botten{
+    border: 3px solid yellow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
